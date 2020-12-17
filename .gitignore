@@ -1,2 +1,6 @@
 
 .DS_Store
+.vscode
+my_pkg/_pycache_
+my_pkg/_pycache_/*
+my_pkg.egg*
