@@ -1,5 +1,6 @@
 # OOPs Session `20201212`
 
+```
 -> Coding principle (10%)
 	0. WHY?
 	1. DRY - Don’t Repeat Yourself
@@ -13,3 +14,4 @@
 	3. Class description
 -> Variable design (5%)
 -> DocString (5%) 
+```
